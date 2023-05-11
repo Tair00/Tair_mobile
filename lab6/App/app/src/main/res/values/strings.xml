@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">App</string>
+    <string name="guessing_game_prompt">Guess the number between 1 and 100:</string>
+    <string name="guess_hint">Enter a number between 1 and 100:</string>
+    <string name="button_guess">GUESS</string>
+    <string name="guess_result_prompt">Your guess result will be displayed here.</string>
+    <string name="button_new_game">NEW GAME</string>
+    <string name="invalid_guess_prompt">Invalid guess. Please enter a number between 1 and 100.</string>
+    <string name="win_prompt">Congratulations! You won in %d guesses.</string>
+    <string name="low_guess_prompt">Your guess is too low!</string>
+    <string name="high_guess_prompt">Your guess is too high. Try again.</string>
+    <string name="game_started_prompt">New game started! Good luck!</string>
+    <string name="new_game_dialog_cancel">Cancel</string>
+    <string name="new_game_dialog_yes">Yes</string>
+    <string name="new_game_dialog_message">Are you sure you want to start a new game?</string>
+    <string name="new_game_dialog_title">New Game?</string>
+
+</resources>
