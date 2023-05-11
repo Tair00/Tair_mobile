@@ -1,15 +1,16 @@
-package ru.mvlikhachev.app;
+package ru.mvlikhachev.lab7;
 
-import java.util.Random;
-import android.app.Activity;
+import androidx.appcompat.app.AppCompatActivity;
+
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 
-public class MainActivity extends Activity {
+import java.util.Random;
 
+public class MainActivity extends AppCompatActivity {
     private int mNumber;
     private int mGuessCount = 0;
     private TextView mGuessResultTextView;

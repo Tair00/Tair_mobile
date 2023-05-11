@@ -1,4 +1,4 @@
-package ru.mvlikhachev.newwather;
+package ru.mvlikhachev.lab7;
 
 import org.junit.Test;
 
